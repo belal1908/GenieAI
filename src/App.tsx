@@ -11,7 +11,7 @@ declare global {
       //RANDOM GETTER/SETTERS
       updateContentDimensions: (dimensions: {
         width: number
-        height: numbe
+        height: number
       }) => Promise<void>
       getScreenshots: () => Promise<Array<{ path: string; preview: string }>>
 
