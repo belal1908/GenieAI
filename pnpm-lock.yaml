@@ -6,7 +6,7 @@ settings:
 
 importers:
 
-  .:
+  .
     dependencies:
       '@google/genai':
         specifier: ^0.12.0
