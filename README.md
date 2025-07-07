@@ -114,8 +114,8 @@ Note: The application is **NOT** invisible to:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/greeneu/interview-coder-withoupaywall-opensource.git
-cd interview-coder-withoupaywall-opensource
+git clone https://github.com/belal1908/GenieAI.git
+cd GenieAI
 ```
 
 2. Install dependencies:
